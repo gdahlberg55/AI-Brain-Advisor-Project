@@ -4,7 +4,7 @@
 - **Reliability**: 95% (Memory MCP active)
 - **Efficiency**: 80% (auto-commit detector implemented, rules consolidated)
 - **Innovation**: 2+ features/week (4 meta-agents deployed)
-- **Clarity**: 75% (folders populated, Canvas exports pending)
+- **Clarity**: 85% (visual exports active in /ideas/)
 
 Last updated: 2025-07-30 (Auto-Commit Detector Active)
 
